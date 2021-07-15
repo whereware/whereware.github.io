@@ -1,3 +1,6 @@
 {
-  "title":"你好, 國際化!"
+  "welcome":"歡迎使用",
+  "login":"登入",
+  "phone": "手機",
+  "password": "密碼"
 }
