@@ -1,6 +1,14 @@
 {
   "welcome":"歡迎使用",
+  "sign_in":"登入",
   "login":"登入",
   "phone": "手機",
-  "password": "密碼"
+  "password": "密碼",
+  "error1": "找不到帳號",
+  "error2": "密碼輸入錯誤",
+  "remember_me": "記住我",
+  "forget_password":"忘記密碼？",
+  "no_account": "你還沒有帳號？",
+  "click_registered": "點我註冊",
+  "other_login": "其他方式登入"
 }

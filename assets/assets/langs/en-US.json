@@ -1,6 +1,14 @@
 {
   "welcome":"Welcome",
+  "sign_in":"Sign in",
   "login":"Login",
   "phone": "Phone",
-  "password": "Password"
+  "password": "Password",
+  "error1": "Can't find account",
+  "error2": "Incorrect password",
+  "remember_me": "Remember",
+  "forget_password":"Forgot password？",
+  "no_account": "Don't have an account？",
+  "click_registered": "Sign up",
+  "other_login": "Sing in with"
 }
